@@ -1,0 +1,8 @@
+.vscode/
+dist/
+.eslintrc
+.eslintignore
+entry.js
+webpack.config.js
+yarn-error.log
+.yarnrc
